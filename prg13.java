@@ -27,5 +27,6 @@ public class prg13 {
         Scanner s = new Scanner(System.in);
         n1=s.nextInt();
         checkNeon(n1);
+        s.close();
     }
 }
